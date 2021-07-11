@@ -1,0 +1,51 @@
+
+div {
+    border: solid 1px;
+    border-radius: 10px;
+
+    width: 300px;
+    height: 500px;
+
+    display: inline-block;
+
+    text-align: center;
+
+}
+
+.innerBlock {
+
+    width: 100px;
+    height: 90%;
+    margin: 5%;
+
+    border: solid 1px;
+
+}
+
+button{
+    background-color: transparent;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+button:hover{
+    background-color: midnightblue;
+    color: white;
+}
+
+img{
+    border-radius: 200px;
+    margin: 10px;
+
+}
+
+.hello{
+    opacity: 50%;
+}
+
+.hello:hover{
+    opacity: 0;
+}
+
+
+
